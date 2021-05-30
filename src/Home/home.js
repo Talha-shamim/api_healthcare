@@ -100,7 +100,7 @@ const Home = () => {
               left: "2vw",
             }}
             onClick={() => {
-              window.location.assign("https://oxynet.live");
+              window.location.assign("https://covinet.netlify.app/");
             }}
           >
             Visit : Parent Website
