@@ -6,7 +6,7 @@ const stateArray = [
   "kerala",
   "jharkhand",
   "delhi",
-  "chhatisgarh",
+  "chhattisgarh",
   "puducherry",
   "haryana",
   "madhyapradesh",
