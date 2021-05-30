@@ -7,7 +7,7 @@ const stateArray = [
   "jharkhand",
   "delhi",
   "chhatisgarh",
-  "tamilnadu",
+  "puducherry",
   "haryana",
   "madhyapradesh",
   "westbengal",
